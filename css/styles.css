@@ -1,37 +1,35 @@
 body {
-	background-color: DimGrey;
+	background-color: f4f4f4;
+	align-items: center;
 }
 h1 {
 	font-family: 'PT Sans', sans-serif;
-	font-size: 85px;
+	font-size: 70px;
 	text-align: center;
-	vertical-align: middle;
+        vertical-align: middle;
 	line-height: 10px;
-	color: white;
 	padding-top: 270px;
 }
 #_message {
 	font-family: 'PT Sans', sans-serif;
-	font-size: 30px;
+	font-size: 25px;
 	text-align: center;
 	vertical-align: middle;
 	line-height: 20px;
-	color: white;
 }
 #_table {
-	padding-top: 130px;
+	padding-top: 100px;
 	height: 100%;
-    width: 100%;
-    display: table;
+        width: 100%;
+        display: table;
 }
 #tableContainer {
 	vertical-align: middle;
-    display: table-cell;
-    height: 100%;
+        display: table-cell;
+        height: 100%;
 }
 #table1 {
 	margin: 0 auto;
-	
 }
 th {
 	text-align: center;
@@ -40,9 +38,8 @@ th {
 }
 td {
 	font-family: 'PT Sans', sans-serif;
-	color: white;
 	text-align: center;
-	padding-top: 20px;
+	padding-top: 5px;
 	padding-left: 30px;
 	padding-right: 30px;
 }
